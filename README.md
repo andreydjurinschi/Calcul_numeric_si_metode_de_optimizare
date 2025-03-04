@@ -4,5 +4,5 @@
 
 ### Hord method - done
 ### Bisection method - done
-### Iteration method - in process
+### <span style="color:red">Iteration method - in process</span> 
 ### Newton's method - in process
