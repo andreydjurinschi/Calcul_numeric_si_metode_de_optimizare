@@ -17,5 +17,10 @@ public class Program
         Console.WriteLine("__________Bisection method_______________ ");
         double root2 = BisectionMethod.Bisection(a, b, epsilon);
         Console.WriteLine($"          {root2}                   ");
+        Console.WriteLine("____________________________________");
+        Console.WriteLine("__________Iteration method_______________ ");
+        double root3 = IterationMethod.Method(a, epsilon);
+        Console.WriteLine($"          {root3}                   ");
+        Console.WriteLine("____________________________________");
     }
 }
