@@ -14,6 +14,6 @@
 
 Gauss Seidel method - completed
 
-Jacobi - in process
+Jacobi - completed
   
   - [Folder](https://github.com/andreydjurinschi/Methods-for-solving-nonlinear-equations/tree/main/GaussSeidel_Method)  
